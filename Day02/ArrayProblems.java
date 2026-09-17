@@ -37,7 +37,7 @@ public class ArrayProblems {
         }
 
 
-        //2nd largest number
+    //2nd largest number
     
     int num[] = {10, 25, 70,40, 80};
         int secondLargest = Integer.MIN_VALUE;
